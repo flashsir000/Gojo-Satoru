@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['9961382049']
-global.premium = ['9961382049']
-global.ownernomer = '9961383049'
+global.owner = ['919961382049']
+global.premium = ['91961382049']
+global.ownernomer = '919961383049'
 global.ownername = 'Pucha Sir'
 global.botname = '𝜑ͥ𝜓ͭ𝜁ᷤ𝛨ͫ͢𝛼ͤ𝜹ᤢ𝜄𝛾⸙⃝💖⃝࿙'
 global.footer = '𝜑ͥ𝜓ͭ𝜁ᷤ𝛨ͫ͢𝛼ͤ𝜹ᤢ𝜄𝛾⸙⃝💖⃝࿙.'
@@ -30,7 +30,7 @@ global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = '𝜑ͥ𝜓ͭ𝜁ᷤ𝛨ͫ͢𝛼ͤ𝜹ᤢ𝜄𝛾⸙⃝💖⃝࿙'
-global.author = 'Pucha Sir'
+global.author = ''
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
